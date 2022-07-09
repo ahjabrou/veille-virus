@@ -1,0 +1,32 @@
+body{
+   font-family: 'Gill Sans';
+    background-color: rgba(191, 201, 49, 0.507);
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.container{
+    max-width: 1240px;
+    margin: auto;
+    padding: 0 8px;
+}
+
+
+h3{
+    color:rgb(107, 17, 69);
+    text-decoration: underline;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border-bottom: 4px solid #8689af;
+}
+
+span{
+    color:rgba(231, 161, 10, 0.767);
+}
+
+h1{
+    color:rgb(172, 27, 17);
+    font-size: x-large;
+}
